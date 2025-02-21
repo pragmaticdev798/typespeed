@@ -10,7 +10,13 @@ It's a stupid-simple typing test:
 - Tells you how fast (or slow) you were
 - Throws in some light roasting for good measure
 
+  ![1](https://github.com/user-attachments/assets/97ddb66e-1e0b-4f13-9486-028a692a3a79)
+
+  ![2](https://github.com/user-attachments/assets/604d8721-f88a-4061-b7cd-8cef17ffb10b)
+
+
 ## Setup
+
 
 1. Clone this mess:
 ```bash
